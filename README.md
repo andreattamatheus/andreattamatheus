@@ -15,9 +15,6 @@
 
 ### Tecnologias:
 
-
-### Tecnologias:
-
 <img align="center" alt="Rael-HTML" height="50" width="50"
     height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" alt="Rael-CSS" height="50" width="50"
