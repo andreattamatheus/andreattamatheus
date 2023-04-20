@@ -1,9 +1,8 @@
 ### Matheus Stats
 
-- 🌱 Atualmente se adicionando a Stack de React e Node através do curso <a href="https://jstack.com.br/" target="_blank"> JStack</a>. / 
+- 🌱 Atualmente se atualizando com Stack de React e Node através do curso <a href="https://jstack.com.br/" target="_blank"> JStack</a>. / 
 - Engenheiro Programador
-- 🎓 Desenvolvedor Fullstack há quase 3 anos.
-- 😄 Pronouns: (Ele/Dele/He)
+- 🎓 Desenvolvedor Fullstack há quase 4 anos.
 
 
 <div align="justify">
