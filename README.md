@@ -1,9 +1,6 @@
-### Matheus Stats
+### Who Am I?
 
-- 🌱 Atualmente se atualizando com Stack de React e Node através do curso <a href="https://jstack.com.br/" target="_blank"> JStack</a>. / 
-- Engenheiro Programador
-- 🎓 Desenvolvedor Fullstack há quase 4 anos.
-
+- Software Developer > 5 years
 
 <div align="justify">
   <a href="https://github.com/igarashiisrael">
