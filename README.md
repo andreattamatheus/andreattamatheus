@@ -21,7 +21,7 @@
 
 
 <img align="center" alt="Rael-Laravel" height="50" width="50"
-    height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
