@@ -1,51 +1,15 @@
-### Who Am I?
+### Hi there, you found my profile! 👋
 
-- Software Developer > 5 years
+I’m Matheus Andreatta, a Fullstack/Backend Engineer with almost 7 years of experience in consulting, e-commerce, accountability, and marketing. My main stack is PHP, Laravel, Vue.js, and MySQL, and I’m passionate about creating new things, maintaining old ones, and creating tests for everything.
 
-<div align="justify">
-  <a href="https://github.com/igarashiisrael">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=andreattamatheus&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreattamatheus&layout=compact&langs_count=7&theme=ocean_dark"/>
-</div>
-  
+Currently, I’m a Senior Backend Engineer at TrustD (Propwire), a US-based startup transforming the real estate space. I focus on backend architecture, integrations, and performance — from implementing payment gateways and Elasticsearch to setting up CI/CD pipelines and optimizing databases.
+Previously, I worked as a Senior Full-stack Engineer at PDMFC, building applications that scaled to support thousands of vendors and helped improve sales processes and client management workflows.
 
-### Tecnologias:
+<img src="profile-banner.jpeg" width="100%" />
 
-<img align="center" alt="Rael-HTML" height="50" width="50"
-    height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="center" alt="Rael-CSS" height="50" width="50"
-    height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="center" alt="Rael-PHP" height="50" width="50"
-    height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-
-<img align="center" alt="Rael-Laravel" height="50" width="50"
-    height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-
-
-
-
- 
-          
-  
-##
-  
-<div>
-  <a href="https://instagram.com/andreatta_matheus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.linkedin.com/in/matheusandreatta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-
-  </div>
+- 💼 Current Senior Software Engineer at TrustD (Propwire)
+- 🧑🏻‍💻 Experienced with PHP, Laravel, Vue.js, MySQL, PostgreSQL, Docker, CI/CD.
+- 🚀 Passionate about backend architecture, testing, performance optimization, and integrations.
+- 🌍 Remote-first developer, fluent in English (C1), native Portuguese, and with basic Spanish.
+- 📫 Reach me at andreattamatheus25@gmail.com or on LinkedIn
+- 💻 Check out my projects here on GitHub
