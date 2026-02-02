@@ -5,8 +5,6 @@ I’m Matheus Andreatta, a Fullstack/Backend Engineer with almost 7 years of exp
 Currently, I’m a Senior Backend Engineer at TrustD (Propwire), a US-based startup transforming the real estate space. I focus on backend architecture, integrations, and performance — from implementing payment gateways and Elasticsearch to setting up CI/CD pipelines and optimizing databases.
 Previously, I worked as a Senior Full-stack Engineer at PDMFC, building applications that scaled to support thousands of vendors and helped improve sales processes and client management workflows.
 
-<img src="profile-banner.jpeg" width="100%" />
-
 - 💼 Current Senior Software Engineer at TrustD (Propwire)
 - 🧑🏻‍💻 Experienced with PHP, Laravel, Vue.js, MySQL, PostgreSQL, Docker, CI/CD.
 - 🚀 Passionate about backend architecture, testing, performance optimization, and integrations.
